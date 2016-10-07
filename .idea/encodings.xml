@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Helpers/NavigationHelper.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Helpers/PageHelper.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Helpers/SeoPageHelpers.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Helpers/SettingsSitesHelpers.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/BlocksController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/FaqController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/NewsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PageController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/TranslitController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/FaqController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/NewsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/routes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/Page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Providers/HelperServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/app.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/app_page.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/main.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news.blade.php" charset="UTF-8" />
+  </component>
+</project>
